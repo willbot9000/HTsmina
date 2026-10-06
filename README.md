@@ -1,5 +1,5 @@
 # HTsmina
-A high throughput c++ molecular docking model using smina (A fork of Vina)
+A high throughput python and c++ molecular docking model using smina (A fork of Vina)
 
 Using smina code under the Apache 2.0 License:
 
